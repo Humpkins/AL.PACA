@@ -1,0 +1,32 @@
+**	Estudante	**
+
+nome
+sobrenome
+CPF
+
+email
+telefone para contato
+
+
+Cidade
+Estado
+
+Universidade
+Curso
+Período
+
+**	Empresa		**
+
+Nome
+CNPJ
+
+email
+telefone para contato
+
+Cidade
+Estado
+
+Ramo
+
+
+
